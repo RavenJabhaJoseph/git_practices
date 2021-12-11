@@ -9,27 +9,21 @@
 	<a href="src-img.jpg">Click here</a>
 	<div class="container">
 		<p>Hey all this is Raven Joseph.</p>
-		<p class="raven">raven jabha joseph</p>
+		<p class="raven"></p>
 	</div>
 	<div class="container-1">
 		<p>raven jabha joseph</p>
 	</div>
-	<div>Raven jabha joseph</div>
+	<div>raven jabha joseph</div>
 	<div class="container">
 		<p>
 			<ol>
 				<li>Hi! I'm Raven Jabha Joseph</li>
 				<li>I'm a full stack developer</li>
-				<li>I love designing web. It gives me peace and self control towards me.</li>
-				<li><span><strong><em><i>This is me and this is what I do.</i></em></strong></span></li>
-				<li>this is sometimes annoyes me. But this is what I love to do.</li>
+				<li></li>
 			</ol>
+
 		</p>
-		<div class="container-2">
-			<p>
-				<span>this is just me</span>
-			</p>
-		</div>
 	</div>
 </body>
 </html>
