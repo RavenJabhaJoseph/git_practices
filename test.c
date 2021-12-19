@@ -8,6 +8,6 @@ int main() {
 	int result=0;
 
 	result=alpha + beta + gamma;
-	printf("The result is: %d",result);
+	printf("The result is the answer: %d",result);
 }
 
